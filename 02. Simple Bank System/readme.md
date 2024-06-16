@@ -16,7 +16,15 @@ To use the script, simply run it in a Python environment. The script will presen
 
 Here are some screenshots of the Simple Bank System in action:
 
-![Alt text for the image](URL_to_the_image)
+![Sucess widtdraw + show extract](https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/withdraw-sucess-and-extract.png)
+
+![Sucess deposit + show extract](https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/success-deposit-and-extract.png)
+
+![Invalid options handling](https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/invalid-option.png)
+
+![Max number of daily withdraws reached + show extract](https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/max-num-withdraw-daily-and-extract.png)
+
+![Not allowed amounts handling](https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/not-allowed-amounts.png)
 
 ## Rules Summary
 
