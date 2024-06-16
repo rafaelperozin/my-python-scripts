@@ -16,14 +16,15 @@ To use the script, simply run it in a Python environment. The script will presen
 
 Here are some screenshots of the Simple Bank System in action:
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/withdraw-sucess-and-extract.png" width="30%" alt="Sucess withdraw + show extract" />
   <img src="https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/success-deposit-and-extract.png" width="30%" alt="Sucess deposit + show extract" />
-  <img src="https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/max-num-withdraw-daily-and-extract.png" width="30%" alt="Max number of daily withdraws reached + show extract" />
-</p>
-<p align="center">
-  <img src="https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/invalid-option.png" width="30%" alt="Invalid options handling" />
   <img src="https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/not-allowed-amounts.png" width="30%" alt="Not allowed amounts handling" />
+</p>
+<p align="left">
+  <img src="https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/max-num-withdraw-daily-and-extract.png" width="30%" alt="Max number of daily withdraws reached + show extract" />
+  <img src="https://github.com/rafaelperozin/my-python-scripts/blob/main/02.%20Simple%20Bank%20System/screenshots/invalid-option.png" width="30%" alt="Invalid options handling" />
+  
 </p>
 
 ## Rules Summary
